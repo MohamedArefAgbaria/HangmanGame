@@ -4,6 +4,8 @@ make sure that you have a python on your computer and an IDE recommended Pycharm
 download all the files :
 	hangman.py
 	hangman_helper.py
+	for (int i = 0; i<=6; i++) // c :P
+	hangman+i.png  // python :D
 put all files in one folder "HangmanGame".
 open this file in pycharm and run hangman.py
 *************
